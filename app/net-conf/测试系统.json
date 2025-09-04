@@ -1,0 +1,18 @@
+{
+  "group_id": 29,
+  "node_id": 3,
+  "hosts": {
+    "192.168.179.133": {
+      "host_name": "5GR",
+      "host_id": "10726",
+      "conf_dir": "",
+      "log_dir": [],
+      "db_path": "",
+      "start_script_path": "",
+      "stop_script_path": "",
+      "conf_paths": [],
+      "log_paths": [],
+      "roles": []
+    }
+  }
+}

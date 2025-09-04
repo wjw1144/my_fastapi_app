@@ -1,0 +1,30 @@
+{
+  "group_id": 28,
+  "node_id": 1,
+  "hosts": {
+    "10.29.185.39": {
+      "host_name": "gsm-r",
+      "host_id": "10711",
+      "conf_dir": "/home/stu-xie/gsmr-cp-master/conf",
+      "log_dir": "/tmp",
+      "conf_paths": []
+    },
+    "10.29.159.166": {
+      "host_name": "GSMR",
+      "host_id": "10721",
+      "conf_dir":"",
+      "log_dir": ["/tmp",
+                  "/home/stu-xie/Desktop/gsmr-cp-master/crash_counts",
+                  "/home/stu-xie/Desktop/gsmr-cp-master/log"],
+      "db_path": "/home/stu-xie/gsmr-cp-master/conf/hlr.db",
+      "start_script_path": "/home/stu-xie/gsmr-cp-master/conf/osmo-start",
+      "stop_script_path": "/home/stu-xie/gsmr-cp-master/conf/osmo-stop",
+      "conf_paths": ["/home/stu-xie/gsmr-cp-master/conf/isdnrelay.cfg", 
+                "/home/stu-xie/gsmr-cp-master/conf/hlr.db",
+                "/home/stu-xie/gsmr-cp-master/conf/osmo-bsc.cfg",
+                "/home/stu-xie/gsmr-cp-master/conf/osmo-msc.cfg"],
+      "log_conf": [],
+      "roles": ["user_mgmt"]
+    }
+  }
+}

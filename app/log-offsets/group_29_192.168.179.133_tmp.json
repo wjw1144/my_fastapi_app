@@ -1,0 +1,18 @@
+{
+  "deleteNetworkData.log": {
+    "offset": 68,
+    "pages": [
+      0
+    ],
+    "prev_page_start": 0,
+    "residual_lines": 2
+  },
+  "capture_packets.log": {
+    "offset": 62,
+    "pages": [
+      0
+    ],
+    "prev_page_start": 0,
+    "residual_lines": 2
+  }
+}

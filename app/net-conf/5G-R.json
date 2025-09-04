@@ -1,0 +1,19 @@
+{
+  "group_id": 37,
+  "node_id": 2,
+  "hosts": {
+    "192.168.179.133": {
+      "host_name": "5GGR",
+      "host_id": "10727",
+      "conf_dir": "",
+      "log_dir": ["/tmp"],
+      "db_path": "",
+      "start_script_path": "/home/wjw/5g-r/script/backgroundStart.sh",
+      "stop_script_path": "",
+      "conf_paths": ["/home/wjw/5g-r/conf/amf.yaml",
+                     "/home/wjw/5g-r/conf/n1.yml"],
+      "log_paths": ["/tmp"],
+      "roles": []
+    }
+  }
+}

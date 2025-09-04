@@ -1,0 +1,16 @@
+{
+  "group_id": 34,
+  "hosts": {
+    "192.168.179.133": {
+      "host_name": "ruu",
+      "host_id": "10720",
+      "conf_dir": "",
+      "log_dir": "",
+      "db_path": "",
+      "start_script_path": "",
+      "stop_script_path": "",
+      "paths": [],
+      "roles": []
+    }
+  }
+}
